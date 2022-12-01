@@ -1,0 +1,38 @@
+form{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align:center;
+    height: 100vh;
+
+    
+}
+form input{
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    background: whitesmoke;
+    
+    
+}
+.signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: skyblue;
+    height: 100vh;
+}
+.signup-btn{
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: rgb(2, 54, 75);
+    color: white;
+    font-family: 'poppins';
+}
+.log_txt{
+    padding: 20px;
+    color:rgb(41, 40, 40);
+    font-family: 'poppins';
+} 

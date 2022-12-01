@@ -1,0 +1,13 @@
+.error{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin:0px  auto ;
+    width: 500px;
+    align-items: center;
+}
+.error img{
+    height: 400px;
+    margin-bottom: 40px;
+
+}
